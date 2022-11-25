@@ -119,12 +119,12 @@ h3 span{
     color: var(--grayish-blue);
 }
 
-#join{
+.join{
     color: var(--blue);
     cursor: pointer;
 }
 
-#join:hover {
+.join:hover {
     color: var(--dark-grayish-blue);
 }
 
